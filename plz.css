@@ -1,0 +1,40 @@
+
+
+
+body {
+background: #06D57C;
+text-align: left;
+}
+#main {
+	width: 1000px;
+	height: 600px;
+	background: #06D57C;
+	margin: 2px auto;
+	border:solid 1px #057E4A;
+}
+h1 {
+	text-align: center;
+	font-family:"Georgia";
+	font: 24pt;
+	color: #000000;
+}
+hr {
+	height: 2px;
+	color: #000000;
+}
+p{
+	font-family:"Georgia";
+	font-size: 12pt;
+	text-align: left;
+	text-indent: 8px;
+	color: #000000;
+}	
+h2 {
+	text-align: center;
+	font-family:"Georgia";
+	font: 2pt;
+	color: #000000;
+}
+h3 {
+	text-align: left;
+}
